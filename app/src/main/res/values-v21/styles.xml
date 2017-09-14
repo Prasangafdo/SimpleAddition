@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="liteBlue" parent="android:Theme.DeviceDefault.Light.DarkActionBar">
+        <item name="android:colorBackground">@color/background_material_light_2</item>
+        <item name="android:navigationBarColor">@color/background_material_light_2</item>
+        <item name="android:colorPrimary">@color/primary_material_dark</item>
+    </style>
+</resources>
